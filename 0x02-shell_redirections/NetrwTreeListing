@@ -1,0 +1,44 @@
+../
+/
+| 0x00-shell_basics/
+| alx-system_engineering-devops/
+| | .git/
+| | 0x00-shell_basics/
+| | 0x01-shell_permissions/
+| | 0x02-shell_redirections/
+| | 0x03-shell_variables_expansions/
+| | 0-alias
+| | 0-current_working_direc_directory
+| | 0-hello_world
+| | README.md
+| | .0-hello_world.swp
+| alx-zero_day/
+| boot/
+| cd/
+| dev/
+| etc/
+| home/
+| media/
+| mnt/
+| opt/
+| proc/
+| root/
+| run/
+| srv/
+| sys/
+| tmp/
+| usr/
+| var/
+| .dockerenv*
+| 0-current_working_directory
+| 0x02_emacs
+| 0x03-git
+| 10-mirror_permissions
+| README.md
+| bin@	 --> usr/bin
+| lib32@	 --> usr/lib32
+| lib64@	 --> usr/lib64
+| lib@	 --> usr/lib
+| libx32@	 --> usr/libx32
+| sbin@	 --> usr/sbin
+| so_cool
