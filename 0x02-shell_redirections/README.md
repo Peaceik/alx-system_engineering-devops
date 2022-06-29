@@ -1,1 +1,1 @@
-0-hello_world => Write a script that prints “Hello, World”, followed by a new line to the standard output
+0-hello_world = > Write a script that prints “Hello, World", followedby a new line to the standard output
